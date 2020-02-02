@@ -12,4 +12,4 @@ Para isso:
 
 A partir disso, comparou-se os resultados obtidos e comparados com o valor teórico para taxa de erro para diferentes taxas de ruído Gaussiano para cada modulação aplicada.
 
-O relatório final desse trabalho se encontra na raiz desse repositório com o nome [Relatorio_Final_de_COmDig.pdf)](Relatorio_Final_de_COmDig.pdf).
+O relatório final desse trabalho se encontra na raiz desse repositório com o nome [Relatorio_Final_de_ComDig.pdf](Relatorio_Final_de_ComDig.pdf).
