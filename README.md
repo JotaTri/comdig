@@ -6,7 +6,7 @@ Para isso:
 
 - criou-se um um array de números binários
 - criou-se um mapa para modulações BPSK, 8-PSK, 16-QAM e 64-QAM
-- filtrar as sequências de símbolos para cada modulação em um filtro de pulso de Nyquist e um pulso retangular
+- filtrou-se as sequências de símbolos para cada modulação em um filtro de pulso de Nyquist e um pulso retangular
 - criou-se o ruído Gaussiano com 3dB e 10dB
 - aplicou-se o ruído Gaussiano e verificou-se a amostragem nas diferentes modulações
 
